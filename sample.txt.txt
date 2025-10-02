@@ -1,1 +1,2 @@
 Hi,Sample file for git from pc to github
+Successfully pushed.
